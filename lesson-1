@@ -10,7 +10,13 @@ var_dump((int)0 === (int)’hello, world’);       //Почему true?    От
 ?>
 
 2.
+<?php
+$title= Hello, world!;
+$h1 = Main;
+?>
 
+
+3.
 <?
 $a =1;
 $b=2;
